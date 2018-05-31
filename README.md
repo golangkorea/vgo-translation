@@ -18,3 +18,7 @@ These are the posts in the "Go & Versioning" series.
 * "Versioned Go Commands" [[PDF](https://research.swtch.com/vgo-cmd.pdf)].
 
 The official Go proposal is at [https://golang.org/issue/24301](https://golang.org/issue/24301).
+
+* "The vgo proposal is accepted. Now what?" [[PDF](https://research.swtch.com/vgo-accepted.pdf)].
+
+* "What is Software Engineering?" [[PDF](https://research.swtch.com/vgo-eng.pdf)].
